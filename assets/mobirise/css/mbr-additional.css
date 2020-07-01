@@ -1800,6 +1800,7 @@ section.lazy-placeholder:after {
   background: #ffffff;
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   transition: box-shadow 0.3s;
+  padding-bottom: 0;
 }
 .cid-s3rMZMT5Ge .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
