@@ -2900,7 +2900,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Orders",
                 "active": false
               },
               {
@@ -2913,7 +2913,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Poductivity and Efficiency",
                 "active": false
               },
               {
@@ -2926,7 +2926,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Replacements",
                 "active": false
               },
               {
@@ -2939,7 +2939,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Replacement Ordered",
                 "active": true
               },
               {
@@ -2952,7 +2952,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Metrics",
                 "active": false
               }
             ]
