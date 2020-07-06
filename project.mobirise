@@ -3095,23 +3095,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Text Underneath",
-                "active": false
+                "active": true
               },
               {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/61490262076-6bf7004c-ec92-479b-94fb-e445ace6e58b-2084575b-0190-42da-86b3-adf23810dad6-480x640.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/61490262076-6bf7004c-ec92-479b-94fb-e445ace6e58b-2084575b-0190-42da-86b3-adf23810dad6-480x640-480x640.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "White line on the wraps",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
+                "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3120,8 +3107,8 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Head Proportion",
-                "active": true
+                "caption": "Text Underneath",
+                "active": false
               }
             ]
           }
