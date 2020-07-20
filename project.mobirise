@@ -4681,7 +4681,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "ORDERS",
                 "active": true
               },
               {
@@ -4694,7 +4694,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "ORDERS",
                 "active": false
               },
               {
@@ -4707,7 +4707,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "ORDERS",
                 "active": false
               },
               {
@@ -4720,7 +4720,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "REPLACEMENT",
                 "active": false
               },
               {
@@ -4733,7 +4733,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "REPLACEMENT",
                 "active": false
               },
               {
@@ -4746,7 +4746,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "REPLACEMENT",
                 "active": false
               },
               {
@@ -4759,7 +4759,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "REPLACEMENT",
                 "active": false
               }
             ]
