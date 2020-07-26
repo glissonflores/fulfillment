@@ -4888,6 +4888,21 @@ section.lazy-placeholder:after {
 .cid-s5OlVXXnjF .card-title {
   color: #465052;
 }
+.cid-s5PRwR9VLW {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #333333, #333333);
+}
+@media (min-width: 992px) {
+  .cid-s5PRwR9VLW .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s5PRwR9VLW .mbr-figure {
+    padding-top: 3rem;
+  }
+}
 .cid-s3rVbQhIAr {
   padding-top: 30px;
   padding-bottom: 30px;
