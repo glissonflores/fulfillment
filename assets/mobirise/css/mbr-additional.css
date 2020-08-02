@@ -3332,6 +3332,32 @@ section.lazy-placeholder:after {
 .cid-s3rVbQhIAr .media-container-row .row-copirayt p {
   width: 100%;
 }
+.cid-s6v6Lqco4M {
+  background-image: url("../../../assets/images/crown-and-paw-portraits.webp");
+}
+.cid-s6v6Lqco4M .icons-media-container {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-s6v6Lqco4M .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-s6v6Lqco4M .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-s6v6Lqco4M .mbr-text {
+  color: #ffffff;
+}
+.cid-s6v6Lqco4M .card {
+  padding-bottom: 1.5rem;
+}
 .cid-s3p13kbzwV .navbar {
   padding: .5rem 0;
   background: #333333;
